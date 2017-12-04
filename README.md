@@ -6,7 +6,7 @@ It has different modules
 liklihood which effeciently removes the noise before making predictions using Eigen Value Decomposition.
 
 
-This theorem is this validated on Zero shot classification of Food dishes (A transfer learning problem, where system make prediction for the classes not used during training) 
+This theorem is this validated on Zero shot classification of Food dishes (A transfer learning problem, where system make prediction for the classes not used during training)  - Python
 
 2 - Features computation for all dish classes using Artificial Neural Network to be used as lilklihood in Bayesain theorem.
 
