@@ -9,7 +9,7 @@ from nltk.stem.snowball import SnowballStemmer # To stemm words to their base fo
 #from nltk.corpus import stopwords
 
 
-class MyParser:
+class PageParser:
       """
       Class to parse given number of web pages to scrap text information for given word and to save cleaned text in specified file
       """
